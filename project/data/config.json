@@ -1,0 +1,8 @@
+{
+    "api_key": "vLynT5awRooTw87TL1GaVfZtm2MZdiFjF5SYH0zv0noHTVvvvZQ5hA1b9NsBsDZV",
+    "secret_key": "s5Fmm7LhRm5oTqnJVtUwE7hJGi3zKIsAh60j3dk3GriEeeYgpFOQaNg7uoYsZN2G",
+    "exchange": "binance",
+    "symbols": ["BTC/USDT", "ETH/USDT"], 
+    "timeframes": ["1d", "4h", "1h", "15m"],
+    "ta_screener": "crypto"
+}
